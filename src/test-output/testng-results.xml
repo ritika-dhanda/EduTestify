@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-10-19T12:37:44 IST" name="QuizAutomationSuite" finished-at="2025-10-19T12:37:48 IST" duration-ms="4422">
+    <groups>
+    </groups>
+    <test started-at="2025-10-19T12:37:44 IST" name="QuizTest" finished-at="2025-10-19T12:37:48 IST" duration-ms="4422">
+      <class name="SeleniumTestNG">
+        <test-method is-config="true" signature="setup()[pri:0, instance:SeleniumTestNG@5223e5ee]" started-at="2025-10-19T12:37:44 IST" name="setup" finished-at="2025-10-19T12:37:46 IST" duration-ms="1796" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="quizTest()[pri:0, instance:SeleniumTestNG@5223e5ee]" started-at="2025-10-19T12:37:46 IST" name="quizTest" finished-at="2025-10-19T12:37:48 IST" duration-ms="2378" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quizTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:SeleniumTestNG@5223e5ee]" started-at="2025-10-19T12:37:48 IST" name="teardown" finished-at="2025-10-19T12:37:48 IST" duration-ms="207" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- SeleniumTestNG -->
+    </test> <!-- QuizTest -->
+  </suite> <!-- QuizAutomationSuite -->
+</testng-results>
