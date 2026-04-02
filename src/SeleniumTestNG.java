@@ -16,7 +16,7 @@ public class SeleniumTestNG {
 
     @BeforeClass
     public void setup() {
-        System.setProperty("webdriver.chrome.driver", "chromedriver.exe"); // make sure chromedriver is in src
+        //System.setProperty("webdriver.chrome.driver", "chromedriver.exe"); // make sure chromedriver is in src
         driver = new ChromeDriver();
     }
 
